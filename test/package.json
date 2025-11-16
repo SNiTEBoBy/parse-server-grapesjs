@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "parse": "^2.13.0",
-    "parse-dashboard": "^2.1.0",
+    "parse-dashboard": "^8.0.0",
     "parse-server": "^4.2.0",
     "parse-server-fs-store-adapter": "0.0.2"
   },
